@@ -161,7 +161,7 @@ Explantion - Dependency Injection is a design pattern that implements the Invers
 
 #### 12. What types of dependency injection does Spring support?
 * Based on the constructor and setters
-** Based on the constructor, setters, and getters
+* Based on the constructor, setters, and getters
 * Based on setters, getters, and properties
 * Based on the constructor, setters, and properties
 
